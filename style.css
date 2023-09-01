@@ -1,0 +1,24 @@
+body {
+    background-image: url('nature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#fixed{
+    /* display: none; */
+    position: absolute;
+    right: 110px;
+    overflow: hidden;
+    /* left: 41%; */
+    /* margin-left:900px; */
+}
+
+
+
+
+
+
+
+
+
+
